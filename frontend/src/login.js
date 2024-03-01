@@ -1,5 +1,4 @@
 import React from 'react'
-
 function login() {
   return (
     <div className='d-flex justify-content-center align-items-center bg-primary vh-100'>
@@ -16,9 +15,7 @@ function login() {
                 <button className='btn btn-success'>Log in</button>
                 <p>You are agree to our terms</p>
                 <button className='btn btn-default border'>Create Account</button>
-            
             </form>
-      
         </div>
     </div>
 
